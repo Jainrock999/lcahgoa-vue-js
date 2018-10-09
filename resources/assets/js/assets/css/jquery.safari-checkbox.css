@@ -1,0 +1,25 @@
+.jquery-safari-checkbox {display: inline; font-size: 16px; line-height: 16px; cursor: pointer; cursor: hand;}
+.jquery-safari-checkbox .mark {display: inline;}
+
+.jquery-safari-checkbox img {vertical-align: middle; width: 20px; height: 22px;}
+.jquery-safari-checkbox img{background:  url('/images/chair_blank.PNG') no-repeat;}
+
+.jquery-safari-checkbox img{
+	background: url('/images/chair_blank.PNG') no-repeat;
+}
+.jquery-safari-checkbox-hover img{
+	background:  url('/images/chair_green.PNG') no-repeat;
+}
+.jquery-safari-checkbox-checked img{
+	background:  url('/images/chair_green.PNG') no-repeat;
+}
+.jquery-safari-checkbox-checked .jquery-safari-checkbox-hover img {
+	background:  url('/images/chair_green.PNG') no-repeat;
+}
+
+.jquery-safari-checkbox-disabled img{
+	background:  url('/images/chair_red.PNG') no-repeat;
+}
+.jquery-safari-checkbox-checked .jquery-safari-checkbox-disabled img{
+	
+}
